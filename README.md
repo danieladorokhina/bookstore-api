@@ -14,3 +14,4 @@ REST API for an online bookstore. Users can browse books, authors, publishers, m
 
 ## Database Schema  
 Users, Books, Authors, Publishers, Orders, OrderItems, Cart  
+![Database Schema](schema.png)
